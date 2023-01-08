@@ -1,4 +1,4 @@
-### Hola! 👋
+## Hola! 👋
 
 ## Soy Mónica Hidalgo, una desarrolladora web que se ha reciclado del mundo de los idiomas al mundo del código.
 
@@ -15,7 +15,7 @@
 
 No dudes en ponerte en contacto conmigo para cualquier cosa 😉
 
-Ahora mismo estoy buscando una oportunidad para adentrarme en este mundo del código. ¡No te puedo ofrecer muchísima experiencia en programación pero sí muchas ganas y una motivación que hacen que aprenda muy rápido!
+### Ahora mismo estoy buscando una oportunidad para adentrarme en este mundo del código. ¡No te puedo ofrecer muchísima experiencia en programación pero sí muchas ganas y una motivación que hacen que aprenda muy rápido!
 
 
 
