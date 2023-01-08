@@ -1,6 +1,4 @@
-## Hola! 👋
-
-## Soy Mónica Hidalgo, una desarrolladora web que se ha reciclado del mundo de los idiomas al mundo del código.
+## Hola! 👋 Soy Mónica Hidalgo, una desarrolladora web que se ha reciclado del mundo de los idiomas al mundo del código.
 
 👩🏻‍🏫 Estuve muchos años explotando mi lado proactivo y organizado en el mundo de la educación y de los idiomas. He sido formadora en varios países (Inglaterra, España y Estados Unidos) y he coordinado equipos educativos e incluso creado proyectos propios de inmersiones lingüísticas para grupos.
 
