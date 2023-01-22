@@ -10,6 +10,7 @@
 - Linkedin: www.linkedin.com/in/monicahidalgomartin
 - Twitter: @mhm_is_back
 - Email: monicahidalgomartin@gmail.com
+- Portfolio: https://mhidalgoma.github.io/Personal-Portfolio/
 
 No dudes en ponerte en contacto conmigo para cualquier cosa 😉
 
